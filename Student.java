@@ -3,6 +3,7 @@ public class Student {
 		System.out.println("你好");
 		System.out.println("打猎");
 		System.out.println("1223");
+		System.out.ptintln("hehe");
 
 
 
